@@ -1,7 +1,7 @@
 ### Seja bem-vind@ ao meu perfil! 
 
 - 🏊‍♂️ Atualmente trabalho com back-end
-- 🚴‍♂️ Estudando C# e Java
+- 🚴‍♂️ Estudando C#, .net, Bd relacional, OO, Solid
 - 🏃‍♂️ Buscando uma vaga de estágio
 
 <div align="center">
