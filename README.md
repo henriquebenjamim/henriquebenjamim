@@ -12,17 +12,18 @@
   
 <div style="display: inline_block"><br>
     
-  <img align="center" alt="Henrique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Henrique-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Henrique-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
   
 </div>
+  
 
  ##
  
 <div> 
   <a href="https://www.linkedin.com/in/henriquebenjamim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://stackoverflow.com/users/18022920/henrique-benjamim" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"></a> 
+  
   
 </div>
 
