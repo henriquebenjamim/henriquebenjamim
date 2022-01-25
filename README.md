@@ -22,6 +22,7 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/henriquebenjamim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://stackoverflow.com/users/18022920/henrique-benjamim" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white" target="_blank"></a> 
   
 </div>
 
