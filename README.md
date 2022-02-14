@@ -1,8 +1,8 @@
-### Seja bem-vind@ ao meu perfil! 
+### Welcome to my github profile!
 
-- 🏊‍♂️ Atualmente trabalho com back-end
-- 🚴‍♂️ Estudando C#, .net, Bd relacional, OO, Solid
-- 🏃‍♂️ Buscando uma vaga de estágio
+- 🏊‍♂️ back end developer
+- 🚴‍♂️ Studying C#, DOTNET, Mysql, OO
+- 🏃‍♂️ Looking for the first job as dev
 
 <div align="center">
   <a href="https://github.com/henriquebenjamim">
@@ -18,11 +18,12 @@
 </div>
   
 
- ##
- 
+ ## Contacts
+  
 <div> 
   <a href="https://www.linkedin.com/in/henriquebenjamim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://stackoverflow.com/users/18022920/henrique-benjamim" target="_blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" target="_blank"></a> 
+  <a href="https://stackoverflow.com/users/18022920/henrique-benjamim" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
   
 </div>
