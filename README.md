@@ -2,7 +2,7 @@
 
 - 🏊‍♂️ back end developer
 - 🚴‍♂️ Studying C#, DOTNET, Mysql, OO
-- 🏃‍♂️ Looking for the first job as dev
+- 🏃‍♂️ Starter at GFT Group 💙
 
 <div align="center">
   <a href="https://github.com/henriquebenjamim">
