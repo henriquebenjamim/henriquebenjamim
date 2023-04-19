@@ -1,6 +1,6 @@
 ### Welcome to my github profile!
 
-- 🏊‍♂️ Back End Developer At Gft Group
+- 🏊‍♂️ Back End Developer at Gft Group
 - 🚴‍♂️ Working with Java Spring Boot and AWS
 - 🏃‍♂️ Here u can see some projects that i have created or what i'm studying
 
