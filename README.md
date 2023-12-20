@@ -1,6 +1,6 @@
 ### Welcome to my github profile!
 
-- Back End Developerd
+- Back End Developer
 - Working with Java Spring Boot and AWS
 - Here u can see some projects that i have created or what i'm studying
 
