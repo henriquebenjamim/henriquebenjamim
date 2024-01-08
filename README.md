@@ -1,7 +1,7 @@
 ### Welcome to my github profile!
 
 - Back End Developer
-- Working with Java Spring Boot and AWS
+- Working with Java, Spring Boot and Angular
 - Here u can see some projects that i have created or what i'm studying
 
 # 💻 Tech Stack:
